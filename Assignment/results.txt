@@ -1,0 +1,16 @@
+Accuracy: 0.9850
+Precision: 0.9709
+Recall: 1.0000
+F1-score: 0.9852
+Confusion Matrix:
+[[ 97   3]
+ [  0 100]]
+
+              precision    recall  f1-score   support
+
+        REAL       1.00      0.97      0.98       100
+        FAKE       0.97      1.00      0.99       100
+
+    accuracy                           0.98       200
+   macro avg       0.99      0.98      0.98       200
+weighted avg       0.99      0.98      0.98       200
